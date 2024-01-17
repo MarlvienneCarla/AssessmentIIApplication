@@ -1,0 +1,20 @@
+[
+    {
+      "title": "The Shawshank Redemption",
+      "release_date": "1994-10-14",
+      "overview": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "poster_path": "/pjmdJ7WJ5BZnGk4OmmsBhKm5YBZ.jpg"
+    },
+    {
+      "title": "The Godfather",
+      "release_date": "1972-03-24",
+      "overview": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "poster_path": "/9xjOvWnLlKgu9hHp6FndEJh3i6x.jpg"
+    },
+    {
+      "title": "The Dark Knight",
+      "release_date": "2008-07-18",
+      "overview": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice.",
+      "poster_path": "/1hB5JtZlgMJGsB9kUoXeJkpGaJy.jpg"
+    }
+  ]
